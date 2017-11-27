@@ -1,7 +1,7 @@
 
 library(shiny)
 library(ggvis)
-source('~/stat133-hws-fall17/hw04//code/functions.R')
+source('~/stat133-hws-fall17/hw04/code/functions.R')
 # Define UI for application that draws a histogram
 ui <- fluidPage(
   
